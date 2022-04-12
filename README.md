@@ -7,6 +7,8 @@ Obs:
 
 'Milton27' refere-se à base de dados;
 
+'plot_zoom_png.png' é a imagem principal
+
 Os demais arquivos constam imagens ilustrativas obtidas em 'código'
 
 .
