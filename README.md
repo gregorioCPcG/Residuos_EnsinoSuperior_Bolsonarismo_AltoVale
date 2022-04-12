@@ -7,8 +7,6 @@ Obs:
 
 'Milton27' refere-se à base de dados;
 
-O arquivo 'legal' contém modelo com 6 cidades a menos para gráfico mais "bonitinho";
-
 Os demais arquivos constam imagens ilustrativas obtidas em 'código'
 
 .
